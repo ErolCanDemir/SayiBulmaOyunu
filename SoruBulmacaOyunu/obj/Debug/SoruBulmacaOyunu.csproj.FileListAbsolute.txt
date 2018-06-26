@@ -1,0 +1,27 @@
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SoruBulmacaOyunu\SoruBulmacaOyunu\bin\Debug\SoruBulmacaOyunu.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SoruBulmacaOyunu\SoruBulmacaOyunu\bin\Debug\SoruBulmacaOyunu.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SoruBulmacaOyunu\SoruBulmacaOyunu\bin\Debug\SoruBulmacaOyunu.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SoruBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SoruBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SoruBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SoruBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SoruBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SoruBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SayiBulmacaOyunu\SoruBulmacaOyunu\bin\Debug\SoruBulmacaOyunu.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SayiBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SayiBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SayiBulmacaOyunu\SoruBulmacaOyunu\bin\Debug\SoruBulmacaOyunu.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SayiBulmacaOyunu\SoruBulmacaOyunu\bin\Debug\SoruBulmacaOyunu.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SayiBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SayiBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SayiBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\SayiBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\SayiBulmacaOyunu\SoruBulmacaOyunu\bin\Debug\SoruBulmacaOyunu.exe.config
+C:\Users\Asus\Desktop\SayiBulmacaOyunu\SoruBulmacaOyunu\bin\Debug\SoruBulmacaOyunu.exe
+C:\Users\Asus\Desktop\SayiBulmacaOyunu\SoruBulmacaOyunu\bin\Debug\SoruBulmacaOyunu.pdb
+C:\Users\Asus\Desktop\SayiBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\SayiBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.Form1.resources
+C:\Users\Asus\Desktop\SayiBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.Properties.Resources.resources
+C:\Users\Asus\Desktop\SayiBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\SayiBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.exe
+C:\Users\Asus\Desktop\SayiBulmacaOyunu\SoruBulmacaOyunu\obj\Debug\SoruBulmacaOyunu.pdb
